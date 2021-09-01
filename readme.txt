@@ -1,10 +1,10 @@
 === Simple Tooltipfy ===
 Contributors: diurno10
 Donate link: https://federicocadierno.com
-Tags:              block, tooltip, extra information to show, fancy tooltip
+Tags:              block, tooltip, extra information to display, fancy tooltip
 Requires at least: 5.4
 Tested up to:      5.8.0
-Stable tag:        1.3
+Stable tag:        1.4
 Requires PHP: 	   7.0
 License:           GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -24,14 +24,6 @@ This plugin can display anything extra information you need for your copy, also 
 1. Upload the plugin to the /wp-content/plugins/ directory.
 2. Activate the Simple Tooltipfy WordPress plugin through the 'Plugins' menu in WordPress.
 3. Add a new block on your page and look for Simple Tooltipfy.
-
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
 
 == Changelog ==
 
