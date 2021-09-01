@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "federico-cadierno/simple-tooltipfy",
+	"version": "0.1.4",
+	"title": "Simple Tooltipfy",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "simple-tooltipfy",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
