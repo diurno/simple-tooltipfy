@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       Simple Tooltipfy
- * Description:       Example block written with ESNext standard and JSX support – build step required.
+ * Description:       This plugin allows you to add more or extra information to a paragraph.
  * Requires at least: 5.5
  * Requires PHP:      7.0
  * Version:           0.1.0
- * Author:            The WordPress Contributors
+ * Author:            Federico Cadierno
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       simple-tooltipfy
