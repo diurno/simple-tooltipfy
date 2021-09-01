@@ -3,9 +3,9 @@
 	"name": "federico-cadierno/simple-tooltipfy",
 	"version": "0.1.4",
 	"title": "Simple Tooltipfy",
-	"category": "widgets",
+	"category": "design",
 	"icon": "smiley",
-	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"description": "This plugin allows you to add more or extra information to a paragraph.",
 	"supports": {
 		"html": false
 	},
