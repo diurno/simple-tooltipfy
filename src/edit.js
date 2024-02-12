@@ -36,7 +36,7 @@
 			 <RichText
                 { ...blockProps }
                 tagName="p"
-				className= "fede"
+				className= "fed-plugin"
 				role="tooltip"
 				aria-label= {attributes.toolTipText}
 				data-microtip-position={attributes.toolTipPosition}
